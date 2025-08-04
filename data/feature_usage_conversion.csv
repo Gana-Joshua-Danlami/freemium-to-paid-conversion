@@ -1,0 +1,5 @@
+feature,users,conversions,conversion_rate
+Feature A + B Used,3711,268,0.07221773106979251
+Feature A Only,3814,185,0.048505506030414265
+Feature B Only,1215,46,0.03786008230452675
+No Feature Used,1260,21,0.016666666666666666
