@@ -47,17 +47,23 @@ To analyze behavioral and product usage data of freemium users in a SaaS product
 
 ## 📂 Project Structure
 
-```bash
 freemium-to-paid-conversion/
+
 ├── eda.ipynb
+
 ├── conversion-queries.sql
+
 ├── logistic-model.ipynb
+
 ├── charts/
+
 ├── data/
+
 ├── dashboard/
+
 └── README.md
 
-## 🧠 What I Learned
+## What I Learned
 
 - How to combine **SQL + Python + Tableau** in one seamless workflow  
 - Behavioral signals can be **quantified** to predict user upgrade  
@@ -66,7 +72,7 @@ freemium-to-paid-conversion/
 
 ---
 
-## 🪜 Replication Steps
+## Replication Steps
 
 1. Load the `freemium_users.csv` dataset (located in `/data`)
 2. Open and run the notebooks in this order:
@@ -74,12 +80,11 @@ freemium-to-paid-conversion/
    - `conversion-queries.sql` (via SQL cell magic in Colab)
    - `logistic-model.ipynb`
 3. Use Tableau to visualize cleaned CSVs in `/data` and export chart screenshots to `/charts`
-4. Final dashboard is hosted on **Tableau Public**
+4. The final dashboard is hosted on **Tableau Public**
 
 ---
 
 ## 📬 Contact
-
 Project by **Gana Joshua Danlami The Analyst**  
 Say hi on [X](https://x.com/joshofTP) or check out [My Portfolio](https://political-pond-13f.notion.site/Hey-there-22ee2e6fa11e80d88fadf1b32188114a)
 
